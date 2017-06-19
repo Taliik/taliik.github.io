@@ -14,7 +14,7 @@ facebook:           ""
 
 disqus_shortname:   "taliik"
 
-background:         ""
+background:         "https://avatars2.githubusercontent.com/u/25979206?v=3&u=e2dbb3c4c305a14e2ebe43855c28974f81cfc881&s=400"
 
 paginate:           5
 paginate_path:      "/page:num/"
