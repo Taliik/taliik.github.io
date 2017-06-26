@@ -1,6 +1,6 @@
 ---
 title:        "Fourth day @Crate"
-description:  "Short post about what happened on my first day"
+description:  "Day four and something new"
 image:        ""
 author:       "Fabian"
 ---
