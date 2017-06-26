@@ -1,5 +1,5 @@
 ---
-title:        "First day @Crate"
+title:        "Second day at Crate"
 description:  "Short post about what happened on my first day"
 image:        ""
 author:       "Fabian"
