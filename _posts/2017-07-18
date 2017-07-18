@@ -1,0 +1,13 @@
+---
+title:        "Week 3"
+description:  "A week with the POC Team"
+image:        ""
+author:       "Fabian"
+---
+
+This week was quite exciting, because I had the pleasure of working with the POC team for the most part of the week. 
+In the beginning of the week I finished going through the example-plugin and fixing stuff there. After that I took over 
+impediments that the POC team thought were fit for an intern, so my first task was to update a plugin to a new version, 
+which was a bigger task then I had thought in the beginning. This was due to the fact that there were major changes in how
+some libraries worked, so I had to redo a lot of stuff. At first I landed in a jar-hell and I was not able to solve that 
+before the weekend.
